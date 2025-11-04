@@ -54,4 +54,5 @@ li a:hover, li a:focus, li a:active {
 
 table, th, td {
     border: 1px solid black;
+    border-collapse: collapse;
 }
