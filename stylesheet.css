@@ -51,3 +51,7 @@ li a:visited {
 li a:hover, li a:focus, li a:active {
     background-color: #6c6390;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
